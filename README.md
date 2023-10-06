@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JEUSTOPE
+- 👋 Hi, I’m @Chris
 - 👀 I’m interested in python and matlab
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python and matlab
